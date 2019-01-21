@@ -1,0 +1,20 @@
+
+.titre {
+ background-color:  #f18973;  
+ font-size: 100%;
+ text-align: center;
+}
+.Informations {  
+ font-size: 90%;
+ text-align: center;
+}
+.Menu {  
+ font-size: 80%;
+ text-align: left;
+ color: blue;
+}
+#objectif {  
+ font-size: 200%;
+ text-align: center;
+ color: blue;
+}
